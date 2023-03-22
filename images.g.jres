@@ -1,0 +1,37 @@
+{
+    "image1": {
+        "data": "hwQRABEAAAAAAAD//w8AAAAAAAAAAP+ZmfkPAAAAAAAA8JmZmZn5AAAAAAAAn5mZmZmZDwAAAADwmZmZmZmZ+QAAAADwmZmZmZmZ+QAAAACfmZmZmZmZmQ8AAACfmZmZmZmZmQ8AAACfmZmZmZmZmQ8AAACfmZmZmZmZmQ8AAACfmZmZmZmZmQ8AAADwmZmZmZmZ+QAAAADwmZmZmZmZ+QAAAAAAn5mZmZmZDwAAAAAA8JmZmZn5AAAAAAAAAP+ZmfkPAAAAAAAAAAD//w8AAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Azul"
+    },
+    "image3": {
+        "data": "hwQRABEAAAAAAAD//w8AAAAAAAAAAP93d/cPAAAAAAAA8Hd3d3f3AAAAAAAAf3d3d3d3DwAAAADwd3d3d3d39wAAAADwd3d3d3d39wAAAAB/d3d3d3d3dw8AAAB/d3d3d3d3dw8AAAB/d3d3d3d3dw8AAAB/d3d3d3d3dw8AAAB/d3d3d3d3dw8AAADwd3d3d3d39wAAAADwd3d3d3d39wAAAAAAf3d3d3d3DwAAAAAA8Hd3d3f3AAAAAAAAAP93d/cPAAAAAAAAAAD//w8AAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Verde"
+    },
+    "image4": {
+        "data": "hwQTAAUAAAAPAAAA//8PAA8AAAAAAAAA//8PAAAPAAD//w8AAAAAAP//DwAPDwAA//APAAAAAAD//w8ADw8PAA8ADwAAAAAA//8PAA8PDwAPAA8A",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Three"
+    },
+    "image2": {
+        "data": "hwQRABEAAAAAAAD//w8AAAAAAAAAAP9ERPQPAAAAAAAA8ERERET0AAAAAAAAT0REREREDwAAAADwRERERERE9AAAAADwRERERERE9AAAAABPRERERERERA8AAABPRERERERERA8AAABPRERERERERA8AAABPRERERERERA8AAABPRERERERERA8AAADwRERERERE9AAAAADwRERERERE9AAAAAAAT0REREREDwAAAAAA8ERERET0AAAAAAAAAP9ERPQPAAAAAAAAAAD//w8AAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Naranja"
+    },
+    "image5": {
+        "data": "hwQTAAUAAAAPAAAA//8PAA8AAAAAAAAA//8PAADwDwD//w8AAAAAAA8ADwD//w8ADwAPAAAAAAD//w8ADwAAAPD/DwAAAAAA8A8PAA8PDwAP/wAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Twins"
+    },
+    "image6": {
+        "data": "hwQTAAUAAADw/w8ADwAPAA/wDwAAAAAA//8PAA8PAAD//w8AAAAAAP//DwD/AAAA//8PAAAAAAD//w8ADw8PAA8ADwAAAAAA8A8PAA8PDwAP/wAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Games"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
